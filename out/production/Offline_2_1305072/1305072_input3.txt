@@ -1,0 +1,12 @@
+1.Print(T)  2.Splay(x)  3.Search(x)  4.Insert(x)  5.Delete(x)  6.Quit
+10
+4 8
+4 1
+4 9
+4 12
+5 0
+3 12
+2 8
+4 1
+3 6
+1
